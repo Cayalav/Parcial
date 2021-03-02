@@ -63,3 +63,9 @@ def num5(a,b,c):
       print(b)
     else:
       print (c)    
+
+num1(23)
+num2("030")
+num3(2300, "NOSY")
+num4(123)
+num5(100, 3, 20)
